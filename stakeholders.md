@@ -9,3 +9,4 @@ At this time, this list is merely meant as a jumping-off point for further resea
 * [The Water Project](http://thewaterproject.org/)
 * [Water for People](http://www.waterforpeople.org/)
 * [UNICEF Water Sanitation and Hygiene](http://www.unicef.org/wash/)
+* [Global Ministries - United Methodist Church](http://www.umcmission.org)
