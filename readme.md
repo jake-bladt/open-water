@@ -9,7 +9,7 @@ The Open Water Project is an initiative to aggregate and homogenize data about p
 In spite of its size and scope, this is a largely tractable problem. In the twenty years from 1990 to 2010, the worldwide population without reliable, sanitary, potable water dropped from 24% to 11% and continues to drop thanks in large part to programs like the ones the OWP is designed to track. Organizations are already doing good work in this arena and helping them coordinate their efforts could improve millions of lives.
 
 ### What phase is the Open Water Project in?
-The OWP is in its earliest discovery and planning phase - an idea and a possible architecture.
+The OWP is in its earliest discovery and planning phase - an idea and a possible architecture. I may eventually bring it to Learn for Good.
 
 ### Discovery
 The discovery process involves collecting as many sources of data about potable water programs as possible, determining the most reliable protocols for retrieving them properly, and assessing the scriptability of extracting salient details from them.
