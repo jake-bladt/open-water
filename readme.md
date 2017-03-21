@@ -27,3 +27,4 @@ Additionally, the Open Water Project requires:
 * A web front end for reporting the data
 * An administrative front end for transcribing data that is resistant to automated collection or transformation
 * An administrative front end for curating collected and transcribed data
+* An analyzer for evaluating efficacy of potential water projects
