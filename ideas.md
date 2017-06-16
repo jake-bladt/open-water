@@ -14,4 +14,4 @@ How expensive would it be to build a device that can:
 * Survive being dropped from a height of 1,000 m?
 * Be made entirely of biodegradable or inert materials?
 
-
+Reference: hygroscopic discs
