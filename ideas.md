@@ -15,3 +15,7 @@ How expensive would it be to build a device that can:
 * Be made entirely of biodegradable or inert materials?
 
 Reference: hygroscopic discs
+
+## Draw from existing
+
+Start from what is known: [ESRI's water GIS](http://www.esri.com/industries/water-resources)
