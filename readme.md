@@ -28,3 +28,6 @@ Additionally, the Open Water Project requires:
 * An administrative front end for transcribing data that is resistant to automated collection or transformation
 * An administrative front end for curating collected and transcribed data
 * An analyzer for evaluating efficacy of potential water projects
+
+### Australia
+Australia's management of the Millenium Drought (1997-2012) is well worth studying. There's a summary [here](https://pacinst.org/wp-content/uploads/2016/02/Managing-Drought-Report-2016-02-23-FINAL-US-Letter.pdf).
